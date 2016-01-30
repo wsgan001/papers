@@ -1,4 +1,4 @@
 # Summary
 
-* [Efficient Locking for Concurrent Operations on B-Trees](efficient_locking_for_concurrent_operations_on_b-t.md)
+* [Efficient Locking for Concurrent Operations on B-Trees](Efficient_Locking_for_Concurrent_Operations_on_B-Trees/intro.md)
 
