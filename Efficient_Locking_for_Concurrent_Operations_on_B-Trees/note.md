@@ -1,5 +1,5 @@
 # Efficient Locking for Concurrent Operations on B-Trees
-<font face="微软雅黑" size="10px">
+<font face="微软雅黑" size="3px">
 
 # 目录
 * [1.介绍](#1、介绍)
