@@ -10,5 +10,5 @@
   * [简介](Architecture_of_a_Database_System/README.md)
   * [笔记](Architecture_of_a_Database_System/note.md)
 * [大数据系统和分析技术综述](大数据系统和分析技术综述/intro.md)
-  * [简介](大数据系统和分析技术综述/READMD.md)
+  * [简介](大数据系统和分析技术综述/README.md)
   * [笔记](大数据系统和分析技术综述/note.md)
