@@ -12,4 +12,4 @@
 * [大数据系统和分析技术综述](大数据系统和分析技术综述/intro.md)
   * [简介](大数据系统和分析技术综述/README.md)
   * [笔记](大数据系统和分析技术综述/note.md)
-* [Orca: A Modular Query Optimizer Architecture for Big Data](Orca: A Modular Query Optimizer Architecture for Big Data/intro.md)
+* [Orca: A Modular Query Optimizer Architecture for Big Data](Orca_A_Modular_Query_Optimizer_Architecture_for_Big_Data/intro.md)
