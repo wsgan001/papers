@@ -13,7 +13,7 @@
   * [简介](大数据系统和分析技术综述/README.md)
   * [笔记](大数据系统和分析技术综述/note.md)
 * [Overview of SciDB](Overview_of_SciDB/intro.md)
-  *  [简介](Overview_of_SciDB/README.MD)
+  *  [简介](Overview_of_SciDB/README.md)
   *  [笔记](Overview_of_SciDB/notes.md)
 * [Orca: A Modular Query Optimizer Architecture for Big Data](Orca_A_Modular_Query_Optimizer_Architecture_for_Big_Data/README.md)
   * [简介](Orca_A_Modular_Query_Optimizer_Architecture_for_Big_Data/intro.md)
