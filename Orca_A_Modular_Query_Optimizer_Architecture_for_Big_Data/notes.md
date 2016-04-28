@@ -7,7 +7,7 @@
 ## 2.2 SQL on Hadoop
 # 3. ORCA ARCHITECTURE
 # 4. QUERY OPTIMIZATION
-##　4.1 OptimizationWorkflow
+## 4.1 OptimizationWorkflow
 ## 4.2 Parallel Query Optimization
 # 5. METADATA EXCHANGE
 # 6. VERIFIABILITY
