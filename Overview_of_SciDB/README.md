@@ -1,7 +1,7 @@
 <font face="微软雅黑">
 
 ### ABSTRACT
-SciDB [4, 3] is a new open-source data management system
+SciDB is a new open-source data management system
 intended primarily for use in application domains that
 involve very large (petabyte) scale array data; for example,
 scientific applications such as astronomy, remote sensing and
