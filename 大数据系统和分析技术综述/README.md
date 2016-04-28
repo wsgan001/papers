@@ -1,6 +1,7 @@
 <font face="微软雅黑">
 
-Abstract: This paper first introduces the key features of big data in different processing modes and their typical application scenarios,
+# Abstract
+This paper first introduces the key features of big data in different processing modes and their typical application scenarios,
 as well as corresponding representative processing systems. It then summarizes three development trends of big data processing systems.
 Next, the paper gives a brief survey on system supported analytic technologies and applications (including deep learning, knowledge
 computing, social computing, and visualization), and summarizes the key roles of individual technologies in big data analysis and
