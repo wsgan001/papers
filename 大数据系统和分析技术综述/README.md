@@ -1,4 +1,4 @@
-<font face="微软雅黑" size="3px">
+<font face="微软雅黑">
 
 Abstract: This paper first introduces the key features of big data in different processing modes and their typical application scenarios,
 as well as corresponding representative processing systems. It then summarizes three development trends of big data processing systems.
