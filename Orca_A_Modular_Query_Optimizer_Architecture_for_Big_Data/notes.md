@@ -14,9 +14,9 @@
 ## 6.1 Minimal Repros
 ## 6.2 Testing Optimizer Accuracy
 # 7. EXPERIMENTS
-##　7.1 TPC-DS Benchmark
+## 7.1 TPC-DS Benchmark
 ## 7.2 MPP Databases
-###　7.2.1 Experiment Setup
+### 7.2.1 Experiment Setup
 ### 7.2.2 Performance
 ## 7.3 SQL on Hadoop
 ### 7.3.1 Experiment Setup
