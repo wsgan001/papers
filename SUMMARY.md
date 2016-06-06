@@ -21,3 +21,6 @@
 * [Deployment of Query Plans on Multicores](Deployment_of_Query_Plans_on_Multicores/README.md)
   * [简介](Deployment_of_Query_Plans_on_Multicores/intro.md)
   * [笔记](Deployment_of_Query_Plans_on_Multicores/notes.md)
+* [The Gamma Operator for Big Data Summarization on an Array DBMS](The_Gamma_Operator_for_Big_Data_Summarization_on_an_Array_DBMS/README.md)
+  * [简介](The_Gamma_Operator_for_Big_Data_Summarization_on_an_Array_DBMS/intro.md)
+  * [笔记](The_Gamma_Operator_for_Big_Data_Summarization_on_an_Array_DBMS/notes.md) 
