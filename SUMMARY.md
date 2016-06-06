@@ -18,3 +18,6 @@
 * [Orca: A Modular Query Optimizer Architecture for Big Data](Orca_A_Modular_Query_Optimizer_Architecture_for_Big_Data/README.md)
   * [简介](Orca_A_Modular_Query_Optimizer_Architecture_for_Big_Data/intro.md)
   * [笔记](Orca_A_Modular_Query_Optimizer_Architecture_for_Big_Data/notes.md)
+* [Deployment of Query Plans on Multicores](Deployment_of_Query_Plans_on_Multicores/README.md)
+  * [简介](Deployment_of_Query_Plans_on_Multicores/intro.md)
+  * [笔记](Deployment_of_Query_Plans_on_Multicores/notes.md)
