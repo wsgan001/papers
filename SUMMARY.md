@@ -10,7 +10,7 @@
   * [简介](Architecture_of_a_Database_System/README.md)
   * [笔记](Architecture_of_a_Database_System/note.md)
 * [大数据系统和分析技术综述](大数据系统和分析技术综述/intro.md)
-  * [简介](大数据系统和分析技术综述/README.md)
+  * [简介](大数据系统和分析技术综述/README.md) 
   * [笔记](大数据系统和分析技术综述/note.md)
 * [Overview of SciDB](Overview_of_SciDB/intro.md)
   *  [简介](Overview_of_SciDB/README.md)
@@ -24,3 +24,4 @@
 * [The Gamma Operator for Big Data Summarization on an Array DBMS](The_Gamma_Operator_for_Big_Data_Summarization_on_an_Array_DBMS/README.md)
   * [简介](The_Gamma_Operator_for_Big_Data_Summarization_on_an_Array_DBMS/intro.md)
   * [笔记](The_Gamma_Operator_for_Big_Data_Summarization_on_an_Array_DBMS/notes.md) 
+* [The SDSS SkyServer – Public Access to the Sloan Digital Sky Server Data1]()
