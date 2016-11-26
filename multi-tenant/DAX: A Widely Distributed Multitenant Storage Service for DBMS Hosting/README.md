@@ -8,12 +8,4 @@ at the cost of high latency or weak consistency with
 low latency. DAX makes this choice for each read or write
 operation by applying protocols that we designed based on
 the storage tier usage characteristics of database systems.
-With these protocols, DAX provides a storage service that
-can host multiple DBMS tenants, scaling with the number
-of tenants and the required storage capacity and bandwidth.
-DAX also provides high availability and disaster tolerance
-for the DBMS storage tier. Experiments using the TPC-C
-benchmark show that DAX provides up to a factor of 4 performance
-improvement over baseline solutions that do not
-exploit 
-exible consistency.
+With these protocols, DAX provides a storage service that　can host multiple DBMS tenants, scaling with the number　of tenants and the required storage capacity and bandwidth.　DAX also provides high availability and disaster tolerance　for the DBMS storage tier. Experiments using the TPC-C　benchmark show that DAX provides up to a factor of 4 performance　improvement over baseline solutions that do not　exploit exible consistency.
