@@ -1,1 +1,0 @@
-efficient_locking_for_concurrent_operations_on_b-t图片
