@@ -2,8 +2,8 @@
 
 * [DataBase](DataBase/README.md)
   * [Architecture of a Database System](DataBase/Architecture of a Database System/intro.md)
-    * [简介](Architecture_of_a_Database_System/README.md)
-    * [笔记](Architecture_of_a_Database_System/note.md)
+    * [简介](DataBase/Architecture_of_a_Database_System/README.md)
+    * [笔记](DataBase/Architecture_of_a_Database_System/note.md)
   * [What Goes Around Comes Around](DataBase/What Goes Around Comes Around/intro.md)
     * [简介](DataBase/What Goes Around Comes Around/README.md)
     * [笔记](DataBase/What Goes Around Comes Around/note.md)
