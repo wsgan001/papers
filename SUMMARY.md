@@ -17,7 +17,7 @@
   * [SciDB The Gamma Operator for Big Data Summarization on an Array DBMS](SciDB/SciDB The Gamma Operator for Big Data Summarization on an Array DBMS/README.md)
     * [简介](SciDB/SciDB The Gamma Operator for Big Data Summarization on an Array DBMS/intro.md)
     * [笔记](SciDB/SciDB The Gamma Operator for Big Data Summarization on an Array DBMS/notes.md) 
-* [FASTDB](FASTDB/README.MD)
+* [FASTDB](FASTDB/README.md)
   * [FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data](FASTDB/FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/README.md)
     * [简介](FASTDB/FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/intro.md)
     * [笔记](FASTDB/FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/notes.md)
