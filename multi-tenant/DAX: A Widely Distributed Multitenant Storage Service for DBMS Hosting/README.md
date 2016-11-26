@@ -1,4 +1,4 @@
-#DAX: A Widely Distributed Multi-tenant Storage Service for DBMS Hosting
+# DAX: A Widely Distributed Multi-tenant Storage Service for DBMS Hosting
 
 ## ABSTRACT
 　　Many applications hosted on the cloud have sophisticated
