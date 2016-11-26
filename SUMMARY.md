@@ -1,11 +1,5 @@
 # Summary
 
-* [Efficient Locking for Concurrent Operations on B-Trees](Efficient_Locking_for_Concurrent_Operations_on_B-Trees/intro.md)
-  * [简介](Efficient_Locking_for_Concurrent_Operations_on_B-Trees/README.md)
-  * [笔记](Efficient_Locking_for_Concurrent_Operations_on_B-Trees/note.md)
-* [Deployment of Query Plans on Multicores](Deployment_of_Query_Plans_on_Multicores/README.md)
-  * [简介](Deployment_of_Query_Plans_on_Multicores/intro.md)
-  * [笔记](Deployment_of_Query_Plans_on_Multicores/notes.md)
 * [DataBase](DataBase/README.md)
   * [Architecture of a Database System](DataBase/Architecture of a Database System/intro.md)
     * [简介](Architecture_of_a_Database_System/README.md)
@@ -35,3 +29,10 @@
   * [Orca: A Modular Query Optimizer Architecture for Big Data](Query Optimizer/Orca A Modular Query Optimizer Architecture for Big Data/README.md)
     * [简介](Query Optimizer/Orca A Modular Query Optimizer Architecture for Big Data/intro.md)
     * [笔记](Query Optimizer/Orca A Modular Query Optimizer Architecture for Big Data/notes.md)
+* [others](others/README.md)
+  * [Efficient Locking for Concurrent Operations on B-Trees](others/Efficient Locking for Concurrent Operations on B-Trees/intro.md)
+    * [简介](others/Efficient Locking for Concurrent Operations on B-Trees/README.md)
+    * [笔记](others/Efficient Locking for Concurrent Operations on B-Trees/notes.md)
+  * [Deployment of Query Plans on Multicores](Deployment_of_Query_Plans_on_Multicores/README.md)
+    * [简介](Deployment_of_Query_Plans_on_Multicores/intro.md)
+    * [笔记](Deployment_of_Query_Plans_on_Multicores/notes.md)
