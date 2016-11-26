@@ -28,6 +28,6 @@
   * [简介](FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/intro.md)
   * [笔记](FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/notes.md)
 * [DataBase](DataBase/README.md)
-  * [Architecture of a Database System](Architecture_of_a_Database_System/intro.md)
+  * [Architecture of a Database System](DataBase/Architecture of a Database System/intro.md)
     * [简介](Architecture_of_a_Database_System/README.md)
     * [笔记](Architecture_of_a_Database_System/note.md)
