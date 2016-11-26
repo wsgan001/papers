@@ -1,6 +1,6 @@
-#STeP: Scalable Tenant Placement for Managing Database-as-a-Service Deployments
+# STeP: Scalable Tenant Placement for Managing Database-as-a-Service Deployments
 
-##Abstract
+## Abstract
 　　Public cloud providers with Database-as-a-Service offerings
 must efficiently allocate computing resources to each of their
 customers. An effective assignment of tenants both reduces
