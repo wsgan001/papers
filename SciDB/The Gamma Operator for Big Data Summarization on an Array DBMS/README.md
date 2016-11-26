@@ -1,0 +1,1 @@
+# The Gamma Operator for Big Data Summarization on an Array DBMS
