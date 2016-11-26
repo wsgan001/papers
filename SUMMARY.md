@@ -26,7 +26,7 @@
     * [简介](SkyServer/The SDSS SkyServer – Public Access to the Sloan Digital Sky Server Data/intro.md)
     * [笔记](SkyServer/The SDSS SkyServer – Public Access to the Sloan Digital Sky Server Data/notes.md)
 * [Query Optimizer](Query Optimizer/README.md)
-  * [Orca: A Modular Query Optimizer Architecture for Big Data](Query Optimizer/Orca A Modular Query Optimizer Architecture for Big Data/README.md)
+  * [Orca: A Modular Query Optimizer Architecture for Big Data](Query Optimizer/Orca: A Modular Query Optimizer Architecture for Big Data/README.md)
     * [简介](Query Optimizer/Orca A Modular Query Optimizer Architecture for Big Data/intro.md)
     * [笔记](Query Optimizer/Orca A Modular Query Optimizer Architecture for Big Data/notes.md)
 * [others](others/README.md)
