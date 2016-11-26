@@ -171,3 +171,5 @@ DAX running in Amazon's EC2 cloud. We demonstrate its
 scalability and availability using TPC-C workloads, and we
 also measure the eectiveness of optimistic I/O and clientcontrolled
 synchronization.
+
+[源文件](http://pan.baidu.com/s/1eRQ2tyi)
