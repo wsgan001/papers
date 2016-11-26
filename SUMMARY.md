@@ -15,9 +15,6 @@
 * [The SDSS SkyServer – Public Access to the Sloan Digital Sky Server Data](The SDSS SkyServer – Public Access to the Sloan Digital Sky Server Data/README.md)
   * [简介](The SDSS SkyServer – Public Access to the Sloan Digital Sky Server Data/intro.md)
   * [笔记](The SDSS SkyServer – Public Access to the Sloan Digital Sky Server Data/notes.md)
-* [FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data](FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/README.md)
-  * [简介](FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/intro.md)
-  * [笔记](FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/notes.md)
 * [DataBase](DataBase/README.md)
   * [Architecture of a Database System](DataBase/Architecture of a Database System/intro.md)
     * [简介](Architecture_of_a_Database_System/README.md)
@@ -33,3 +30,6 @@
     *  [简介](SciDB/Overview of SciDB/README.md)
     *  [笔记](SciDB/Overview of SciDB/notes.md)
 * FASTDB
+  * [FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data](FASTDB/FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/README.md)
+    * [简介](FASTDB/FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/intro.md)
+    * [笔记](FASTDB/FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/notes.md)
