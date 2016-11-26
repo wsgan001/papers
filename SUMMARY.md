@@ -31,3 +31,6 @@
     *  [笔记](SciDB/Overview of SciDB/notes.md)
 * [FASTDB](FASTDB/README.MD)
   * [FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data](FASTDB/FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/README.md)
+  * [FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data](FASTDB/FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/README.md)
+    * [简介](FASTDB/FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/intro.md)
+    * [笔记](FASTDB/FASTDB An Array Database System for Efficient Storing and Analyzing Massive Scientific Data/notes.md)
