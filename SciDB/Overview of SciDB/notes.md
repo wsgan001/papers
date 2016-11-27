@@ -1,5 +1,3 @@
-<font face="微软雅黑">
-
 # ABSTRACT
 # 1. INTRODUCTION
 # 2. BACKGROUND AND MOTIVATION
