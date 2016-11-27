@@ -11,7 +11,7 @@
     * [简介](DataBase/大数据系统和分析技术综述/README.md) 
     * [笔记](DataBase/大数据系统和分析技术综述/note.md)
 * [SciDB](SciDB/README.md)
-  * [Overview of SciDB](SciDB/Overview of SciDB/intro.md)
+  * [Overview of SciDB Large Scale Array Storage, Processing and Analysis](SciDB/Overview of SciDB/intro.md)
     *  [简介](SciDB/Overview of SciDB/README.md)
     *  [笔记](SciDB/Overview of SciDB/notes.md)
   * [The Gamma Operator for Big Data Summarization on an Array DBMS](SciDB/The Gamma Operator for Big Data Summarization on an Array DBMS/README.md)
