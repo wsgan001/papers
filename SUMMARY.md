@@ -25,7 +25,9 @@
     * [简介](multi-tenant/Query optimization in a multi-tenant database system/intro.md)
     * [笔记](multi-tenant/Query optimization in a multi-tenant database system/notes.md) 
 * [UDF](UDF/README.md) 
-  * 
+  * [Optimization of Queries with User-Defined Predicates](UDF/Optimization of Queries with User-Defined Predicates/README.md)
+    * [简介](UDF/Optimization of Queries with User-Defined Predicates/intro.md)
+    * [笔记](UDF/Optimization of Queries with User-Defined Predicates/notes.md)
 * [SciDB](SciDB/README.md)
   * [Overview of SciDB Large Scale Array Storage, Processing and Analysis](SciDB/Overview of SciDB/intro.md)
     *  [简介](SciDB/Overview of SciDB/README.md)
