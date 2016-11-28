@@ -20,3 +20,5 @@ depending on application requirements, to determine the algorithm of choice. It 
 emphasized that our optimization algorithms handle user-defined selections as well as
 user-defined join predicates uniformly. We present complexity analysis and experimental
 comparison of the algorithms.
+
+[原文](http://pan.baidu.com/s/1jIx4q38)
