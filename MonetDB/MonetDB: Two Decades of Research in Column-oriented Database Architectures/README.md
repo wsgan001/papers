@@ -8,4 +8,4 @@ accumulating on average more than 10,000 downloads on a monthly basis. This pape
 overview of the MonetDB technology as it developed over the past two decades and the main research
 highlights which drive the current MonetDB design and form the basis for its future evolution.
 
-[原文]
+[原文](http://pan.baidu.com/s/1c1VWoIs)
