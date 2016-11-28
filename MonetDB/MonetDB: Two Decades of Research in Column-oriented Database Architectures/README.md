@@ -1,0 +1,1 @@
+# MonetDB: Two Decades of Research in Column-oriented Database Architectures
