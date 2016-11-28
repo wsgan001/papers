@@ -19,3 +19,5 @@ competitive to the reference platform, MS SQL Server
 at several techniques to boost performance by utilizing
 repetitive behavior and zoom-in/zoom-out access patterns,
 that are currently not captured by the system.
+
+[原文](http://pan.baidu.com/s/1pKDsWn5)
