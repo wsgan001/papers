@@ -73,7 +73,7 @@ architecture is illustrated in Figure 1. We have several ob-
 253
 jectives for DAX's design that set it apart from other distributed
 storage services:  
-　　 scalable tenancy: DAX must accommodate the aggregate
+　　scalable tenancy: DAX must accommodate the aggregate
 storage demand (space and bandwidth) of all of
 its DBMS tenants, and it should be able to scale out to accommodate
 additional tenants or to meet growing demand
