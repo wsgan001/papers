@@ -69,9 +69,7 @@ called DAX, for Distributed Application-controlled Consistent
 Store, that is intended to provide network-accessible
 persistent storage for hosted DBMS tenants. Each DBMS
 tenant, in turn, supports one or more applications. This
-architecture is illustrated in Figure 1. We have several ob-
-253
-jectives for DAX's design that set it apart from other distributed
+architecture is illustrated in Figure 1. We have several objectives for DAX's design that set it apart from other distributed
 storage services:  
 　　scalable tenancy: DAX must accommodate the aggregate
 storage demand (space and bandwidth) of all of
