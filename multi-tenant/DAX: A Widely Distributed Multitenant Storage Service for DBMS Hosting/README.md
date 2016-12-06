@@ -3,7 +3,7 @@
 ## ABSTRACT
 　　Many applications hosted on the cloud have sophisticated
 data management needs that are best served by a SQL-based
-relational DBMS. It is not dicult to run a DBMS in the
+relational DBMS. It is not dificult to run a DBMS in the
 cloud, and in many cases one DBMS instance is enough to
 support an application's workload. However, a DBMS running
 in the cloud (or even on a local server) still needs a
