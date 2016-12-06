@@ -40,7 +40,6 @@
   * [Optimizing execution of database queries containing user-defined functions](UDF/Optimizing execution of database queries containing user-defined functions/README.md)
     * [简介](UDF/Optimizing execution of database queries containing user-defined functions/intro.md)
     * [笔记](UDF/Optimizing execution of database queries containing user-defined functions/notes.md)
-  * [] 
 * [SciDB](SciDB/README.md)
   * [Overview of SciDB Large Scale Array Storage, Processing and Analysis](SciDB/Overview of SciDB/intro.md)
     *  [简介](SciDB/Overview of SciDB/README.md)
