@@ -1,5 +1,4 @@
 # contents
-
 * [DataBase](DataBase/README.md)
   * [Architecture of a Database System](DataBase/Architecture of a Database System/intro.md)
     * [简介](DataBase/Architecture of a Database System/README.md)
