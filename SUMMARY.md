@@ -1,4 +1,5 @@
 # contents
+
 * [DataBase](DataBase/README.md)
   * [Architecture of a Database System](DataBase/Architecture of a Database System/intro.md)
     * [简介](DataBase/Architecture of a Database System/README.md)
@@ -41,8 +42,8 @@
     * [笔记](UDF/Optimizing execution of database queries containing user-defined functions/notes.md)
 * [SciDB](SciDB/README.md)
   * [Overview of SciDB Large Scale Array Storage, Processing and Analysis](SciDB/Overview of SciDB/intro.md)
-    *  [简介](SciDB/Overview of SciDB/README.md)
-    *  [笔记](SciDB/Overview of SciDB/notes.md)
+    * [简介](SciDB/Overview of SciDB/README.md)
+    * [笔记](SciDB/Overview of SciDB/notes.md)
   * [Requirements for Science Data Bases and SciDB](SciDB/Requirements for Science Data Bases and SciDB/RAEDME.md) 
     * [简介](SciDB/Requirements for Science Data Bases and SciDB/intro.md)
     * [笔记](SciDB/Requirements for Science Data Bases and SciDB/notes.md)
@@ -78,3 +79,6 @@
   * [PostgreSQL查询引擎源码技术探析](books/PostgreSQL查询引擎源码技术探析/README.md)
   * [数据库查询优化器的艺术](books/数据库查询优化器的艺术/README.md)
   * [深度实践KVM](books/深度实践KVM/README.md)
+
+
+
