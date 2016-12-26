@@ -61,7 +61,7 @@
         * [简介](SciDB/EarthDB: Scalable Analysis of MODIS Data using SciDB/intro.md)
         * [笔记](SciDB/EarthDB: Scalable Analysis of MODIS Data using SciDB/notes.md)
 * [MonetDB](MonetDB/README.md)
-    * [SQL Meets SkyServer: the Challenges of a Scientific Database](MonetDB/MonetDB SQL Meets SkyServer: the Challenges of a Scientific Database/README.md)
+    * [MonetDB SQL Meets SkyServer: the Challenges of a Scientific Database](MonetDB/MonetDB SQL Meets SkyServer: the Challenges of a Scientific Database/README.md)
         * [简介](MonetDB/MonetDB SQL Meets SkyServer: the Challenges of a Scientific Database/intro.md)
         * [笔记]([MonetDB/MonetDB SQL Meets SkyServer: the Challenges of a Scientific Database/notes.md)
     * [MonetDB: Two Decades of Research in Column-oriented Database Architectures](MonetDB/MonetDB: Two Decades of Research in Column-oriented Database Architectures/README.md)
