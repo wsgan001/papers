@@ -1,4 +1,4 @@
-# The Design of the Force.com Multitenant Internet Application Development Platform.pdf
+# The Design of the Force.com Multitenant Internet Application Development Platform
 ## ABSTRACT
 Force.com is the preeminent on-demand application development platform in use today, supporting some 55,000+ organizations. Individual enterprises and commercial software-as-a-service (SaaS)
 vendors trust the platform to deliver robust, reliable, Internet-scale applications. To meet the extreme demands of its large user population, Force.com’s foundation is a metadata-driven software
