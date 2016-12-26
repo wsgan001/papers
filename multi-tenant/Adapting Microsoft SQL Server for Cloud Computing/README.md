@@ -1,4 +1,4 @@
-# Adapting Microsoft SQL Server for Cloud Computing]
+# Adapting Microsoft SQL Server for Cloud Computing
 ```
 Philip A. Bernstein, Istvan Cseri, Nishant Dani, Nigel Ellis, Ajay Kalhan, Gopal Kakivaya,
 David B. Lomet, Ramesh Manne, Lev Novik, Tomas Talius
