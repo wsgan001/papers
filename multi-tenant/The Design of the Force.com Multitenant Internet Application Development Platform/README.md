@@ -4,3 +4,11 @@ Force.com is the preeminent on-demand application development platform in use to
 vendors trust the platform to deliver robust, reliable, Internet-scale applications. To meet the extreme demands of its large user population, Force.com’s foundation is a metadata-driven software
 architecture that enables multitenant applications.   
 The focus of this paper is multitenancy, a fundamental design approach that can dramatically improve SaaS application management. This paper defines multitenancy, explains its benefits, and demonstrates why metadata-driven architectures are the premier choice for implementing multitenancy.
+
+------
+这篇论文的核心
+
+## INTRODUCTION
+History has shown that every so often, incremental advances in technology and changes in business models create major paradigm shifts in the way software applications are designed, built, and
+delivered to end users. Today, reliable broadband Internet access, service-oriented architectures (SOAs), and the cost inefficiencies of managing dedicated on-premise applications are driving a transition toward the delivery of managed, shared, Web-based services called software as a service (SaaS).
+
