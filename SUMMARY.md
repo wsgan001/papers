@@ -32,7 +32,9 @@
         * [简介](multi-tenant/Query optimization in a multi-tenant database system/intro.md)
         * [笔记](multi-tenant/Query optimization in a multi-tenant database system/notes.md)
 * [architecture](architecture/README.md)
-    *[Adapting Microsoft SQL Server for Cloud Computing]
+    *[Adapting Microsoft SQL Server for Cloud Computing](architecture/Adapting Microsoft SQL Server for Cloud Computing/README.md)
+        * [简介](architecture/Adapting Microsoft SQL Server for Cloud Computing/intro.md)
+        * [笔记](architecture/Adapting Microsoft SQL Server for Cloud Computing/notes.md)
 * [UDF](UDF/README.md)
     * [Optimization of Queries with User-Defined Predicates](UDF/Optimization of Queries with User-Defined Predicates/README.md)
         * [简介](UDF/Optimization of Queries with User-Defined Predicates/intro.md)
