@@ -3,6 +3,8 @@
 * [Introduction](README.md)
 * [books](books/README.md)
     * [PostgreSQL查询引擎源码技术探析](books/PostgreSQL查询引擎源码技术探析/README.md)
+        * [简介](books/PostgreSQL查询引擎源码技术探析/intro.md)
+        * [笔记](books/PostgreSQL查询引擎源码技术探析/notes.md)
     * [数据库查询优化器的艺术](books/数据库查询优化器的艺术/README.md)
     * [深度实践KVM](books/深度实践KVM/README.md)
 * [DataBase](DataBase/README.md)
