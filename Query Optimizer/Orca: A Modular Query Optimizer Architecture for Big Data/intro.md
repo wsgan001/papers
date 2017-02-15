@@ -1,3 +1,5 @@
+#Orca: A Modular Query Optimizer Architecture for Big Data
+
 # ABSTRACT
 The performance of analytical query processing in data man-agement systems depends primarily on the capabilities of the system's query optimizer. Increased data volumes and heightened interest in processing complex analytical queries have prompted Pivotal to build a new query optimizer.  
 In this paper we present the architecture of Orca, the new query optimizer for all Pivotal data management products, including Pivotal Greenplum Database and Pivotal HAWQ. Orca is a comprehensive development uniting state-of-the-art query optimization technology with own original research resulting in a modular and portable optimizer architecture.  
