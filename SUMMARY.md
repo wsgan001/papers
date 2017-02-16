@@ -9,6 +9,8 @@
         * [简介](books/数据库查询优化器的艺术/intro.md)
         * [笔记](books/数据库查询优化器的艺术/notes.md)
     * [深度实践KVM](books/深度实践KVM/README.md)
+        * [简介](books/深度实践KVM/intro.md)
+        * [笔记](books/深度实践KVM/notes.md)
 * [DataBase](DataBase/README.md)
     * [Architecture of a Database System](DataBase/Architecture of a Database System/intro.md)
         * [简介](DataBase/Architecture of a Database System/README.md)
