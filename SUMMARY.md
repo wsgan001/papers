@@ -47,6 +47,8 @@
     * [简介](Tempo: Robust and SelfTuning Resource Management in Multitenant Parallel Databases/intro.md)
     * [笔记](Tempo: Robust and SelfTuning Resource Management in Multitenant Parallel Databases/notes.md)
   * [SQLVM: Performance Isolation in Multi-Tenant Relational Database-as-a-Service](SQLVM: Performance Isolation in Multi-Tenant Relational Database-as-a-Service/README.md)
+    * [简介](SQLVM: Performance Isolation in Multi-Tenant Relational Database-as-a-Service/intro.md)
+    * [笔记](SQLVM: Performance Isolation in Multi-Tenant Relational Database-as-a-Service/notes.md)
 * [architecture](architecture/README.md)
   * [简介](architecture/Adapting Microsoft SQL Server for Cloud Computing/intro.md)
   * [笔记](architecture/Adapting Microsoft SQL Server for Cloud Computing/notes.md)
