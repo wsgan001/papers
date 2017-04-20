@@ -50,7 +50,8 @@
     * [简介](multi-tenant/SQLVM: Performance Isolation in Multi-Tenant Relational Database-as-a-Service/intro.md)
     * [笔记](multi-tenant/SQLVM: Performance Isolation in Multi-Tenant Relational Database-as-a-Service/notes.md)
   * [Achieving class-based QoS for transactional workloads](multi-tenant/Achieving class-based QoS for transactional workloads/README.md)
-    
+    * [简介](multi-tenant/Achieving class-based QoS for transactional workloads/intro.md)
+    * [笔记](multi-tenant/Achieving class-based QoS for transactional workloads/notes.md)
 * [architecture](architecture/README.md)
   * [简介](architecture/Adapting Microsoft SQL Server for Cloud Computing/intro.md)
   * [笔记](architecture/Adapting Microsoft SQL Server for Cloud Computing/notes.md)
